@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 # Function to print section headers
 print_header() {
     echo -e "\n\033[1;34m==== $1 ====\033[0m"  # Print a bold header in blue
