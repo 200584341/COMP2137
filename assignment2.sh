@@ -167,5 +167,4 @@ main() {  # Defining main function
     echo ""
 }
 
-main  # Running the main function
-
+main  # Running the main function.
