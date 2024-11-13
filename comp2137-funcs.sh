@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7efe18e (Trying to upload my assign)
 #!/bin/bash
 
 # This script contains some function used in the COMP2137 course
