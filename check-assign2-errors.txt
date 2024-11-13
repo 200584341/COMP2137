@@ -1,4 +1,2 @@
 makecontainers.sh: Do not run this script using sudo, it will use sudo when it needs to
 Cannot stat /root/.ssh/known_hosts: No such file or directory
-ssh: Could not resolve hostname server1-mgmt: Temporary failure in name resolution
-scp: Connection closed

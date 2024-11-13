@@ -1,6 +1,6 @@
 ---Host/Student info----
 
-Running on Wed Nov 13 12:00:09 AM EST 2024
+Running on Wed Nov 13 12:01:48 AM EST 2024
 Run by root - () on host
  Static hostname: generic-vm
       Machine ID: dd330373b5fc46e68c7b65a988589040
@@ -19,5 +19,4 @@ Please reboot this vm and run this script again to finish making the containers.
 ---------------------
 
 ---Retrieving assignment2.sh script---
-Retrieved assignment2 script
-Failed to copy assignment2.sh to server1
+Failed to retrieve assignment2.sh script using URL 'https://github.com/yourgithubusername/yourreponame/raw/main/assignment2.sh'
