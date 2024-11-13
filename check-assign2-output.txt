@@ -1,6 +1,6 @@
 ---Host/Student info----
 
-Running on Tue Nov 12 11:39:58 PM EST 2024
+Running on Tue Nov 12 11:43:53 PM EST 2024
 Run by root - () on host
  Static hostname: generic-vm
       Machine ID: dd330373b5fc46e68c7b65a988589040
@@ -9,9 +9,7 @@ Operating System: Ubuntu 24.04.1 LTS
 ------------------------
 
 ---Start of Assignment2.sh Check------
-Retrieved makecontainers.sh script
 ---Running makecontainers.sh----------
-Retrieving script library file
 
 User 'root' added to incus and incusadmin groups.
 -------WARNING-------
