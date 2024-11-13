@@ -1,0 +1,15 @@
+--2024-11-12 23:39:59--  https://zonzorp.github.io/COMP2137/makecontainers.sh
+Resolving zonzorp.github.io (zonzorp.github.io)... 185.199.111.153, 185.199.110.153, 185.199.108.153, ...
+Connecting to zonzorp.github.io (zonzorp.github.io)|185.199.111.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15409 (15K) [application/x-sh]
+Saving to: ‘/root/makecontainers.sh’
+
+     0K .......... .....                                      100% 1.22M=0.01s
+
+2024-11-12 23:39:59 (1.22 MB/s) - ‘/root/makecontainers.sh’ saved [15409/15409]
+
+makecontainers.sh: Do not run this script using sudo, it will use sudo when it needs to
+Cannot stat /root/.ssh/known_hosts: No such file or directory
+ssh: Could not resolve hostname server1-mgmt: Temporary failure in name resolution
+scp: Connection closed
