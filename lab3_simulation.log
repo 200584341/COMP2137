@@ -1,0 +1,10 @@
+Simulating adding host entry: 192.168.16.3 loghost
+Simulating adding host entry: 192.168.16.4 webhost
+Simulating adding host entry: 192.168.16.3 loghost
+Simulating adding host entry: 192.168.16.4 webhost
+Simulating adding host entry: 192.168.16.3 loghost
+Simulating adding host entry: 192.168.16.4 webhost
+[INFO] Host entry already exists: 192.168.16.3 loghost
+[INFO] Host entry already exists: 192.168.16.4 webhost
+[INFO] Host entry already exists: 192.168.16.3 loghost
+[INFO] Host entry already exists: 192.168.16.4 webhost
