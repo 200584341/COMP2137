@@ -31,4 +31,3 @@ log_transfer "Executed configure-host.sh on server2-mgmt"
 # Adding local host entries for loghost and webhost
 ./configure-host.sh -hostentry loghost 192.168.16.3 && log_transfer "Added local entry for loghost"
 ./configure-host.sh -hostentry webhost 192.168.16.4 && log_transfer "Added local entry for webhost"
-
